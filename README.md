@@ -1,4 +1,11 @@
-### Hi there 👋
+🔭 I’m currently working on. My python tool for shodan and other hacker tools. My little fun project..
+🌱 I’m currently learning: More about cryptanalysis
+👯 I’m looking to collaborate on: python, c, java, or c++ securty related projects.
+🤔 I’m looking for help with: Nothing, but thanks
+💬 Ask me about: anything buy what I do at work.  I like talking cyptrography, reverse engineering and malware. 
+📫 How to reach me: Oh, you know how..
+😄 Pronouns: she/her or they/them
+⚡ Fun fact: I love to fight in the ring.. oh, and I love my dog... ;)
 
 <!--
 **skraynick/skraynick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
