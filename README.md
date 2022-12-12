@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning: More about cryptanalysis
 - 👯 I’m looking to collaborate on: python, c, java, or c++ securty related projects.
 - 🤔 I’m looking for help with: Nothing, but thanks
-- 💬 Ask me about: anything buy what I do at work.  I like talking cyptrography, reverse engineering and malware. 
+- 💬 Ask me about: anything but what I do at work.  I like talking cyptrography, reverse engineering and malware. 
 - 📫 How to reach me: Oh, you know how..
 - 😄 Pronouns: she/her or they/them
 - ⚡ Fun fact: I love to fight in the ring (mostly k1, but also muay thai rules).. oh, and I love my dog... ;)
