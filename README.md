@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on. My python tool for shodan and other hacker tools. My little fun project..
+- 🔭 I’m currently working on. My python tool for shodan and a cryptoanalysis cli tool in go. 
 - 🌱 I’m currently learning: More about cryptanalysis
 - 👯 I’m looking to collaborate on: python, c, java, or c++ securty related projects.
 - 🤔 I’m looking for help with: Nothing, but thanks
